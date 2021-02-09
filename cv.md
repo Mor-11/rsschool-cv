@@ -28,3 +28,14 @@
 >Department of Physics and Mathematics, 3nd year study
 >Brest state A.S. Pushkin university
 
+### Skills:
+>Programming languages :
+> - **Java Script**
+> - **C++**
+
+>Language:
+> - Russian - native
+> - Belarusian - native
+> - Ukrainian - native
+> - Endlish - Level A2
+
