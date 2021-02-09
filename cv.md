@@ -39,3 +39,16 @@
 > - Ukrainian - native
 > - Endlish - Level A2
 
+### Personal information:
+
+>communication, work well individually and in team, willing to travel a lot,
+draw.
+
+### Additional information:
+
+>Driving license.
+
+### Links
+>https://vk.com/id148507888
+>
+>https://github.com/mor-11
